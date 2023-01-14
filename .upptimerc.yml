@@ -15,9 +15,9 @@ sites:
     url: https://ssl.dlya.top
   - name: Waline Comment System
     url: https://waline.comment.dlya.top
-  - name: fownhost
+  - name: Fownhost
     url: https://fownhost.ga
-  - name: fownhost Blog
+  - name: Fownhost Blog
     url: http://blog.fownhost.ga
 
 status-website:
