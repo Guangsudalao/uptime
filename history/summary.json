@@ -13,7 +13,7 @@
     "time": 3689,
     "timeDay": 4773,
     "timeWeek": 3917,
-    "timeMonth": 3877,
+    "timeMonth": 3927,
     "timeYear": 3689,
     "dailyMinutesDown": {
       "2023-01-21": 312,
@@ -34,7 +34,7 @@
     "time": 3370,
     "timeDay": 3668,
     "timeWeek": 3682,
-    "timeMonth": 3397,
+    "timeMonth": 3443,
     "timeYear": 3370,
     "dailyMinutesDown": {
       "2023-02-13": 44,
@@ -58,7 +58,7 @@
     "time": 2774,
     "timeDay": 578,
     "timeWeek": 2843,
-    "timeMonth": 2970,
+    "timeMonth": 3011,
     "timeYear": 2774,
     "dailyMinutesDown": {
       "2023-02-08": 19,
@@ -86,7 +86,7 @@
     "time": 267,
     "timeDay": 359,
     "timeWeek": 297,
-    "timeMonth": 265,
+    "timeMonth": 262,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2023-01-13": 34
@@ -106,7 +106,7 @@
     "time": 301,
     "timeDay": 348,
     "timeWeek": 266,
-    "timeMonth": 296,
+    "timeMonth": 294,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2023-01-13": 34
@@ -126,7 +126,7 @@
     "time": 1127,
     "timeDay": 1151,
     "timeWeek": 1607,
-    "timeMonth": 1137,
+    "timeMonth": 1156,
     "timeYear": 1127,
     "dailyMinutesDown": {}
   },
@@ -135,17 +135,17 @@
     "url": "https://fownhost.ga",
     "icon": "https://icons.duckduckgo.com/ip3/fownhost.ga.ico",
     "slug": "fownhost",
-    "status": "up",
-    "uptime": "96.57%",
-    "uptimeDay": "95.50%",
-    "uptimeWeek": "99.36%",
+    "status": "down",
+    "uptime": "96.58%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "96.89%",
-    "uptimeYear": "96.57%",
-    "time": 4350,
-    "timeDay": 4173,
-    "timeWeek": 2904,
-    "timeMonth": 4369,
-    "timeYear": 4350,
+    "uptimeYear": "96.58%",
+    "time": 4343,
+    "timeDay": 4064,
+    "timeWeek": 2955,
+    "timeMonth": 4391,
+    "timeYear": 4343,
     "dailyMinutesDown": {
       "2023-02-13": 65,
       "2023-01-21": 774,
@@ -170,7 +170,7 @@
     "time": 2623,
     "timeDay": 417,
     "timeWeek": 2350,
-    "timeMonth": 2559,
+    "timeMonth": 2598,
     "timeYear": 2623,
     "dailyMinutesDown": {
       "2023-01-16": 354,
