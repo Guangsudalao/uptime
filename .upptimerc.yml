@@ -9,7 +9,7 @@ sites:
     url: https://blog.dlya.top
   - name: Alist
     url: https://file.dlya.top
-  - name: Gravatar Proxy Cdn
+  - name: Gravatar Proxy CDN
     url: https://avatar.dlya.top
   - name: SSL Status Check
     url: https://ssl.dlya.top
