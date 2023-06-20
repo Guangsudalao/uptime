@@ -7,7 +7,7 @@ sites:
     url: https://www.dlya.top
   - name: Blog
     url: https://blog.dlya.top
-  - name: Alist
+  - name: File list
     url: https://file.dlya.top
   - name: Gravatar Proxy CDN
     url: https://avatar.dlya.top
